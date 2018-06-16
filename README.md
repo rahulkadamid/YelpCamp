@@ -47,3 +47,11 @@ YelpCamp web application using Node.js | Express.js | MongoDB   (MEN Stack)
 ![](images/1.PNG)
 ![](images/4.PNG)
 ![](images/5.PNG)
+
+## Steps for Project Execution :
+
+```
+cd YelpCamp
+npm install
+node server.js
+````
